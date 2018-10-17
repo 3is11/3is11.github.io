@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 64px;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+    margin: 3rem 0;
+    color: yellow;
+}
+
+a {
+    color: red;
+}
